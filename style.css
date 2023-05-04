@@ -1,0 +1,35 @@
+*{
+    margin:0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#menu ul li{
+    display:inline;
+}
+#menu
+{
+    background-color:black;
+}
+
+#menu ul li a {
+    color:white;
+    padding: 20px;
+    text-decoration: none;
+    display: inline-block;
+
+}
+
+#menu ul li a:hover{
+    background-color:blue;
+}
+
+#menu ul{
+    text-align: center;
+}
+
+body{
+background-image: url(imagem.jpg) ;
+background-repeat: no-repeat;
+background-size: cover;
+}
